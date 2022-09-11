@@ -1,0 +1,46 @@
+Name: Yingduo Zhao (Rose)
+Destination domain: casanovaoperapop.it
+Something specific to that place: It is the official website of the musical Casanova Opera Pop that I recently like to listen to. 
+
+
+C:\Users\lenovo>tracert casanovaoperapop.it
+
+通过最多 30 个跃点跟踪
+到 casanovaoperapop.it [35.214.171.213] 的路由:
+
+  1     3 ms    20 ms     4 ms  10.1.200.1
+  2     2 ms     2 ms     2 ms  newschl6502.n.subnet.rcn.com [206.71.229.161]
+  3     4 ms     4 ms     4 ms  206.71.233.73
+  4     4 ms     4 ms     4 ms  hge0-0-0-2.core1.jfk.ny.rcn.net [207.172.18.131]
+  5     4 ms     4 ms     4 ms  207.172.18.245
+  6     4 ms     4 ms     3 ms  7-1-4.ear1.NewYork6.Level3.net [4.30.178.41]
+  7     *        *        *     请求超时。
+  8    79 ms    79 ms    79 ms  Google-level3-100G.Amsterdam1.Level3.net [4.68.75.110]
+  9    83 ms    81 ms    83 ms  9.233.214.35.bc.googleusercontent.com [35.214.233.9]
+ 10    82 ms    81 ms    81 ms  213.171.214.35.bc.googleusercontent.com [35.214.171.213]
+
+跟踪完成。
+
+Precise address-------------------------------------------------------------------------------------
+
+1: [10.1.200.1]  /NA/  
+2: [206.71.229.161] 10003 Raymond St, Demarest Ave/Englewood Cliffs/NewJersey/United State
+3: [206.71.233.73] 10116 city_hall/Newyork/United State 
+4: [207.172.18.131] 10116 city_hall/Newyork/United State 
+5: [207.172.18.245] city_hall/Newyork/United State 
+6: [4.30.178.41] city_hall/Newyork/United State 
+7:  *
+8: [4.68.75.11] Amsterdam_Centraal/ Amsterdam/Netherlands
+9: [35.214.233.9] la Place/Grote_market_21.9712_HR/Groningen/Netherlands
+10: [35.214.171.213]  la Place/Grote_market_21.9712_HR/Groningen/Netherlands
+
+findings-------------------------------------------------------------------------------------
+
+national/city/ birds of:
+America: The bald eagle
+Newyork: Eastern Bluebird
+Newjersey: American Goldfinch
+Netherlands: Black-tailed Godwit
+Amsterdam: Amsterdam albatross 
+Groningen: NA/I can’t find it
+
